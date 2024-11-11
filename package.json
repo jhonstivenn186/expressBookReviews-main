@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "bookshop",
   "version": "1.0.1",
   "description": "",
@@ -17,4 +18,13 @@
     "jsonwebtoken": "^8.5.1",
     "nodemon": "^2.0.19"
   }
+=======
+  "devDependencies": {
+    "jasmine": "^5.0.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "type": "module"
+>>>>>>> 67ce9d8 (Primer commit con todos los archivos del proyecto)
 }
